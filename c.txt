@@ -2,10 +2,21 @@ git branch test
 
 add abctesting
 
-add anothertestingbranch
+<<<<<<< HEAD
 
 add new thing in master
 
 add new thing in master 2
 
 add new thing in master 3
+||||||| merged common ancestors
+add anothertestingbranch
+=======
+add anothertestingbranch
+
+add another new branch
+
+add another new branch 2
+
+add another new branch 3
+>>>>>>> anothernewbranch
